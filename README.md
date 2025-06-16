@@ -1,16 +1,22 @@
+[![MasterHead](https://miro.medium.com/max/875/1*DluPjzT_eTUFdzHCI7JBZA.gif)](https://github.com/sirinedahmane)
 <h1 align="center">Hi 👋, I'm Sirine Dahmane</h1>
 <h3 align="center">IT Engineer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-🔭 I'm currently working on Business Intelligence & Data Analytics Projects and Web Development
-🌱 I'm currently learning Power BI, Data Science, and Web Technologies
-💬 Ask me about Business Intelligence, Data Analytics, Web Development, Python, SQL
-📫 How to reach me dahmane.sirine@esprit.tn
-⚡ Fun fact I love turning data into beautiful insights!
+- 🔭 I'm currently working on **Business Intelligence & Data Analytics Projects and Web Development**
+
+- 🌱 I'm currently learning **Power BI, Data Science, and Web Technologies**
+
+- 💬 Ask me about **Business Intelligence, Data Analytics, Web Development, Python, SQL**
+
+- 📫 How to reach me **dahmane.sirine@esprit.tn**
+
+- ⚡ Fun fact **I love turning data into beautiful insights!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
