@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/WFZvB7VIXBgG3LqqfK/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="girl coding"/>
 <div align="center">
 
 # Hi there, I'm Sirine Dahmane 👩‍💻✨
