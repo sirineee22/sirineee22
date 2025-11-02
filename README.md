@@ -1,13 +1,33 @@
-<h1 align="center">Hi 👋, I'm Sirine Dahmane</h1> <h3 align="center">Software Engineer | IT Enthusiast from Tunisia</h3> <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation"/>
 
-🔭 I’m currently exploring Software Development, Business Intelligence, and Data Analytics
+# Hi 👋, I'm Sirine Dahmane
 
-🌱 I’m continuously learning new technologies, frameworks, and tools to grow as a developer
+### 4th-Year Software Engineering Student | Licensed in Business Intelligence | Tunisia 🇹🇳
 
-💬 Ask me about software development, business intelligence, Python, SQL, and general tech
+> **"From data pipelines to pixel-perfect apps — I build solutions that scale and delight."**
 
-📫 You can reach me at dahmane.sirine@esprit.tn
+---
 
-⚡ Fun fact: I love turning ideas into real applications and solving problems creatively
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/sirinedahmane/" target="_blank" rel="noreferrer">LinkedIn</a> | <a href="https://github.com/sirinedahmane" target="_blank" rel="noreferrer">GitHub</a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+- 🎓 **4th-Year Software Engineering Student** at [ESPRIT School of Engineering](https://www.esprit.tn/)
+- 📜 **Bachelor's Degree (License) in Business Intelligence** – Expert in **Data Modeling, ETL, Dashboards & Analytics**
+- 💻 Full-Stack Developer with strong **Backend & Frontend** experience
+- 🔭 Currently building **enterprise-grade web apps** and **real-time BI dashboards**
+- 🌱 Mastering **Cloud (AWS/GCP), Microservices, CI/CD, and Advanced Analytics**
+- 💬 Ask me about:  
+  `.NET • React • Symfony • Spring Boot • JavaFX • Python • SQL • BI • Full-Stack Dev`
+
+📫 **Email**: [dahmane.sirine@esprit.tn](mailto:dahmane.sirine@esprit.tn)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+```text
+Frontend:        React • JavaFX • HTML5 • CSS3 • Tailwind • Bootstrap
+Backend:         .NET Core • Spring Boot • Symfony • Node.js • Flask
+Languages:       C# • Java • PHP • JavaScript • TypeScript • Python • SQL
+Databases:       SQL Server • MySQL • PostgreSQL • MongoDB
+BI & Analytics:  Power BI • Tableau • SSIS • DAX • Excel (Power Query)
+DevOps & Tools:  Git • Docker • Postman • Linux • VS Code • IntelliJ
