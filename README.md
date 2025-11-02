@@ -1,5 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJpZ2dlcmluZy1naXJsLWNvZGVyLWdpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufnwz3wDUli7GU0/giphy.gif" width="300" alt="girl coding"/>
-
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvcGljYWwtZ2lybC1jaGVja2luZy10by1kby1saXN0LWdpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhOpu0NwenH7O/giphy.gif" width="300" alt="girl with to-do list"/>
 <div align="center">
 
 # Hi there, I'm Sirine Dahmane 👩‍💻✨
