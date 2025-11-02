@@ -30,7 +30,7 @@
 
 ---
 
-## 💅 Tech Stack (with a little glitter)
+## 💅 Tech Stack 
 
 ```text
 Frontend:        React • JavaFX • Tailwind • Bootstrap
