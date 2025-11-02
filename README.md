@@ -1,33 +1,41 @@
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJpZ2dlcmluZy1naXJsLWNvZGVyLWdpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufnwz3wDUli7GU0/giphy.gif" width="300" alt="girl coding"/>
 
-# Hi 👋, I'm Sirine Dahmane
+<div align="center">
 
-### 4th-Year Software Engineering Student | Licensed in Business Intelligence | Tunisia 🇹🇳
+# Hi there, I'm Sirine Dahmane 👩‍💻✨
 
-> **"From data pipelines to pixel-perfect apps — I build solutions that scale and delight."**
+### 4th-Year Software Engineering Student • Licensed in Business Intelligence • Tunisia 🇹🇳
 
----
+> **"Code, coffee, and a little sparkle 💖"**
 
-## 🚀 About Me
+<a href="https://www.linkedin.com/in/dahmane-sirine-6a7a612a0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/sirineee22" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 🎓 **4th-Year Software Engineering Student** at [ESPRIT School of Engineering](https://www.esprit.tn/)
-- 📜 **Bachelor's Degree (License) in Business Intelligence** – Expert in **Data Modeling, ETL, Dashboards & Analytics**
-- 💻 Full-Stack Developer with strong **Backend & Frontend** experience
-- 🔭 Currently building **enterprise-grade web apps** and **real-time BI dashboards**
-- 🌱 Mastering **Cloud (AWS/GCP), Microservices, CI/CD, and Advanced Analytics**
-- 💬 Ask me about:  
-  `.NET • React • Symfony • Spring Boot • JavaFX • Python • SQL • BI • Full-Stack Dev`
-
-📫 **Email**: [dahmane.sirine@esprit.tn](mailto:dahmane.sirine@esprit.tn)
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🌸 About Me
+
+- 🎓 **4th-Year Software Engineering** @ [ESPRIT](https://www.esprit.tn/)
+- 📜 **License in Business Intelligence** – *Data Queen* 👑
+- 💻 Full-Stack Developer + BI Analyst
+- 🌱 Learning **React, .NET, Cloud, and AI for Dashboards**
+- 💬 Ask me about **.NET • React • Symfony • Spring Boot • JavaFX • Power BI • Python**
+- 📫 **Email**: [dahmane.sirine@esprit.tn](mailto:dahmane.sirine@esprit.tn)
+
+---
+
+## 💅 Tech Stack (with a little glitter)
 
 ```text
-Frontend:        React • JavaFX • HTML5 • CSS3 • Tailwind • Bootstrap
-Backend:         .NET Core • Spring Boot • Symfony • Node.js • Flask
-Languages:       C# • Java • PHP • JavaScript • TypeScript • Python • SQL
-Databases:       SQL Server • MySQL • PostgreSQL • MongoDB
-BI & Analytics:  Power BI • Tableau • SSIS • DAX • Excel (Power Query)
-DevOps & Tools:  Git • Docker • Postman • Linux • VS Code • IntelliJ
+Frontend:        React • JavaFX • Tailwind • Bootstrap
+Backend:         .NET Core • Spring Boot • Symfony • Node.js
+Languages:       C# • Java • PHP • JavaScript • Python • SQL
+Databases:       SQL Server • MySQL • PostgreSQL
+BI Magic:        Power BI • Tableau • DAX • SSIS
+Tools:           Git • Docker • VS Code • IntelliJ
