@@ -1,19 +1,25 @@
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="girl coding"/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-<div align="center">
+  <!-- Image -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="girl coding" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
 
-# Hi there, I'm Sirine Dahmane 👩‍💻✨
+  <!-- Intro Text -->
+  <div>
 
-### 4th-Year Software Engineering Student • Licensed in Business Intelligence • Tunisia 🇹🇳
+    # Hi there, I'm Sirine Dahmane 👩‍💻✨
 
-> **"Code, coffee, and a little sparkle 💖"**
+    ### 4th-Year Software Engineering Student • Licensed in Business Intelligence • Tunisia 🇹🇳
 
-<a href="https://www.linkedin.com/in/dahmane-sirine-6a7a612a0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/sirineee22" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+    > **"Code, coffee, and a little sparkle 💖"**
+
+    <a href="https://www.linkedin.com/in/dahmane-sirine-6a7a612a0/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/sirineee22" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+
+  </div>
 
 </div>
 
