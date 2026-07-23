@@ -4,7 +4,7 @@
 
 # Hi there, I'm Sirine Dahmane 👩‍💻✨
 
-### 4th-Year Software Engineering Student • Licensed in Business Intelligence • Tunisia 🇹🇳
+### 5th-Year Software Engineering Student • Licensed in Business Intelligence • Tunisia 🇹🇳
 
 > **"Code, coffee, and a little sparkle 💖"**
 
@@ -21,7 +21,7 @@
 
 ## 🌸 About Me
 
-- 🎓 **4th-Year Software Engineering** @ [ESPRIT](https://www.esprit.tn/)
+- 🎓 **5th-Year Software Engineering** @ [ESPRIT](https://www.esprit.tn/)
 - 📜 **License in Business Intelligence** – *Data Queen* 👑
 - 💻 Full-Stack Developer + BI Analyst
 - 🌱 Learning **React, .NET, Cloud, and AI for Dashboards**
