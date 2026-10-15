@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:f093fb,100:f5576c&text=Sirine%20Dahmane&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20BI&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:f093fb,100:f5576c&text=Sirine%20Dahmane&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20BI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=F5576C&center=true&vCenter=true&width=640&lines=5th-year+Software+Engineering+%40+ESPRIT+%F0%9F%8E%93;Full-stack+%E2%80%A2+APIs+%E2%80%A2+Microservices+%E2%80%A2+CI%2FCD;Looking+for+a+6-month+end-of-studies+internship+%F0%9F%9A%80;Code%2C+coffee%2C+and+a+little+sparkle+%F0%9F%92%96" alt="typing" />
@@ -17,15 +17,18 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=About+me" alt="About me"/>
+## 🌸 About me
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=F093FB&multiline=true&repeat=false&width=720&height=250&lines=%24+whoami;Sirine+Dahmane%2C+Software+Engineering+student;education%3A+5th-year+Software+Engineering+%40+ESPRIT;degree%3A+License+in+Business+Intelligence+%40+ESEN;focus%3A+Full-stack+%E2%80%A2+DevOps+%E2%80%A2+BI;sport%3A+Former+Tunisian+National+Taekwondo+Team;languages%3A+Arabic+%C2%B7+French+%C2%B7+English;status%3A+Seeking+a+6-month+end-of-studies+internship" alt="About Sirine Dahmane: 5th-year Software Engineering at ESPRIT, License in Business Intelligence at ESEN, full-stack, DevOps and BI, former Tunisian National Taekwondo Team member, Arabic, French and English, seeking a 6-month end-of-studies internship"/>
-</div>
+- 🎓 **5th-year Software Engineering** at [ESPRIT](https://www.esprit.tn/)
+- 📜 **License in Business Intelligence** at ESEN
+- 💻 Full-stack developer with a **DevOps** mindset and a **BI** background
+- 🥋 Former **Tunisian National Taekwondo Team** member
+- 🗣️ Arabic · French · English
+- 🎯 **Seeking:** a 6-month end-of-studies internship
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=Tech+stack" alt="Tech stack"/>
+## 🛠️ Tech stack
 
 <div align="center">
 
@@ -51,9 +54,9 @@
 
 </div>
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=Academic+projects" alt="Academic projects"/>
+## 🎓 Academic projects
 
 <table>
 <tr>
@@ -128,9 +131,9 @@ Travel agency management application built with .NET.
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=Internship+projects" alt="Internship projects"/>
+## 💼 Internship projects
 
 <table>
 <tr>
@@ -178,9 +181,9 @@ Power BI dashboards and ETL workflows built on logistics datasets.
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=Hobby+projects" alt="Hobby projects"/>
+## 🎮 Hobby projects
 
 <table>
 <tr>
@@ -212,9 +215,9 @@ Chatbot builder: businesses create FAQ bots for WhatsApp and Messenger.
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=GitHub+activity" alt="GitHub activity"/>
+## 📊 GitHub stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sirineee22&show_icons=true&theme=radical&hide_border=true&title_color=f5576c&icon_color=f093fb" />
@@ -229,6 +232,6 @@ Chatbot builder: businesses create FAQ bots for WhatsApp and Messenger.
 
 💖 *Open to a 6-month end-of-studies internship. Let's build something great together.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f093fb,100:f5576c&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f093fb,100:f5576c&section=footer" width="100%" alt="footer"/>
 
 </div>
