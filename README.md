@@ -17,23 +17,43 @@
 
 <br/>
 
-<img src="assets/title-about.svg" width="100%" alt="About me"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=About+me" alt="About me"/>
 
-<div align="center">
-  <img src="assets/about.svg" width="100%" alt="About Sirine Dahmane: 5th-year Software Engineering at ESPRIT, License in Business Intelligence at ESEN, full-stack, DevOps and BI, former Tunisian National Taekwondo Team member, Arabic, French and English, seeking a 6-month end-of-studies internship"/>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=F093FB&multiline=true&repeat=false&width=720&height=250&lines=%24+whoami;Sirine+Dahmane%2C+Software+Engineering+student;education%3A+5th-year+Software+Engineering+%40+ESPRIT;degree%3A+License+in+Business+Intelligence+%40+ESEN;focus%3A+Full-stack+%E2%80%A2+DevOps+%E2%80%A2+BI;sport%3A+Former+Tunisian+National+Taekwondo+Team;languages%3A+Arabic+%C2%B7+French+%C2%B7+English;status%3A+Seeking+a+6-month+end-of-studies+internship" alt="About Sirine Dahmane: 5th-year Software Engineering at ESPRIT, License in Business Intelligence at ESEN, full-stack, DevOps and BI, former Tunisian National Taekwondo Team member, Arabic, French and English, seeking a 6-month end-of-studies internship"/>
 </div>
 
 <br/>
 
-<img src="assets/title-stack.svg" width="100%" alt="Tech stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=Tech+stack" alt="Tech stack"/>
 
 <div align="center">
-  <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, Java, C#, TypeScript, JavaScript, C, Angular, React, Blazor, Tailwind, ASP.NET Core, Spring Boot, FastAPI, MySQL, PostgreSQL, SQL Server, Docker, Kubernetes, Jenkins, Git, Power BI, DAX, ETL, microservices"/>
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,java,cs,ts,js,c&perline=6" /><br/><br/>
+
+**Frontend & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,tailwind,dotnet,spring,fastapi&perline=6" /><br/><br/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=6" /><br/><br/>
+
+**DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,vscode&perline=6" /><br/><br/>
+
+**Data & BI**<br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-F5576C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<sub>Architecture: Microservices · API Gateway · Eureka · JWT · REST</sub>
+
 </div>
 
 <br/>
 
-<img src="assets/title-academic.svg" width="100%" alt="Academic projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=Academic+projects" alt="Academic projects"/>
 
 <table>
 <tr>
@@ -110,7 +130,7 @@ Travel agency management application built with .NET.
 
 <br/>
 
-<img src="assets/title-internship.svg" width="100%" alt="Internship projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=Internship+projects" alt="Internship projects"/>
 
 <table>
 <tr>
@@ -160,7 +180,7 @@ Power BI dashboards and ETL workflows built on logistics datasets.
 
 <br/>
 
-<img src="assets/title-hobby.svg" width="100%" alt="Hobby projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=Hobby+projects" alt="Hobby projects"/>
 
 <table>
 <tr>
@@ -194,19 +214,13 @@ Chatbot builder: businesses create FAQ bots for WhatsApp and Messenger.
 
 <br/>
 
-<img src="assets/title-stats.svg" width="100%" alt="GitHub activity"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1800&pause=1000&color=F5576C&width=520&height=45&repeat=false&lines=GitHub+activity" alt="GitHub activity"/>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sirineee22&show_icons=true&theme=radical&hide_border=true&title_color=f5576c&icon_color=f093fb" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirineee22&layout=compact&theme=radical&hide_border=true&title_color=f5576c" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=sirineee22&theme=radical&hide_border=true" />
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirineee22/sirineee22/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirineee22/sirineee22/output/github-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sirineee22/sirineee22/output/github-snake.svg" width="100%">
-  </picture>
 </div>
 
 <div align="center">
