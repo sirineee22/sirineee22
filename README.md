@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:f093fb,100:f5576c&text=Sirine%20Dahmane&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20BI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:f093fb,100:f5576c&text=Sirine%20Dahmane&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20BI&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=F5576C&center=true&vCenter=true&width=640&lines=5th-year+Software+Engineering+%40+ESPRIT+%F0%9F%8E%93;Full-stack+%E2%80%A2+APIs+%E2%80%A2+Microservices+%E2%80%A2+CI%2FCD;Looking+for+a+6-month+end-of-studies+internship+%F0%9F%9A%80;Code%2C+coffee%2C+and+a+little+sparkle+%F0%9F%92%96" alt="typing" />
@@ -17,46 +17,23 @@
 
 <br/>
 
-## 🌸 About me
-
-- 🎓 **5th-year Software Engineering** at [ESPRIT](https://www.esprit.tn/)
-- 📜 **License in Business Intelligence** at ESEN
-- 💻 Full-stack developer with a **DevOps** mindset and a **BI** background
-- 🥋 Former **Tunisian National Taekwondo Team** member
-- 🗣️ Arabic · French · English
-- 🎯 **Seeking:** a 6-month end-of-studies internship
-
----
-
-## 🛠️ Tech stack
+<img src="assets/title-about.svg" width="100%" alt="About me"/>
 
 <div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,java,cs,ts,js,c&perline=6" /><br/><br/>
-
-**Frontend & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=angular,react,tailwind,dotnet,spring,fastapi&perline=6" /><br/><br/>
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=6" /><br/><br/>
-
-**DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,vscode&perline=6" /><br/><br/>
-
-**Data & BI**<br/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-F5576C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<sub>Architecture: Microservices · API Gateway · Eureka · JWT · REST</sub>
-
+  <img src="assets/about.svg" width="100%" alt="About Sirine Dahmane: 5th-year Software Engineering at ESPRIT, License in Business Intelligence at ESEN, full-stack, DevOps and BI, former Tunisian National Taekwondo Team member, Arabic, French and English, seeking a 6-month end-of-studies internship"/>
 </div>
 
----
+<br/>
 
-## 🎓 Academic projects
+<img src="assets/title-stack.svg" width="100%" alt="Tech stack"/>
+
+<div align="center">
+  <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, Java, C#, TypeScript, JavaScript, C, Angular, React, Blazor, Tailwind, ASP.NET Core, Spring Boot, FastAPI, MySQL, PostgreSQL, SQL Server, Docker, Kubernetes, Jenkins, Git, Power BI, DAX, ETL, microservices"/>
+</div>
+
+<br/>
+
+<img src="assets/title-academic.svg" width="100%" alt="Academic projects"/>
 
 <table>
 <tr>
@@ -131,9 +108,9 @@ Travel agency management application built with .NET.
 </tr>
 </table>
 
----
+<br/>
 
-## 💼 Internship projects
+<img src="assets/title-internship.svg" width="100%" alt="Internship projects"/>
 
 <table>
 <tr>
@@ -181,9 +158,9 @@ Power BI dashboards and ETL workflows built on logistics datasets.
 </tr>
 </table>
 
----
+<br/>
 
-## 🎮 Hobby projects
+<img src="assets/title-hobby.svg" width="100%" alt="Hobby projects"/>
 
 <table>
 <tr>
@@ -215,15 +192,21 @@ Chatbot builder: businesses create FAQ bots for WhatsApp and Messenger.
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub stats
+<img src="assets/title-stats.svg" width="100%" alt="GitHub activity"/>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sirineee22&show_icons=true&theme=radical&hide_border=true&title_color=f5576c&icon_color=f093fb" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirineee22&layout=compact&theme=radical&hide_border=true&title_color=f5576c" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=sirineee22&theme=radical&hide_border=true" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirineee22/sirineee22/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirineee22/sirineee22/output/github-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sirineee22/sirineee22/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 <div align="center">
@@ -232,6 +215,6 @@ Chatbot builder: businesses create FAQ bots for WhatsApp and Messenger.
 
 💖 *Open to a 6-month end-of-studies internship. Let's build something great together.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f093fb,100:f5576c&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f093fb,100:f5576c&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
