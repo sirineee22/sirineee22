@@ -17,8 +17,6 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="girl coding"/>
-
 ## 🌸 About me
 
 - 🎓 **5th-year Software Engineering** at [ESPRIT](https://www.esprit.tn/)
@@ -27,8 +25,6 @@
 - 🥋 Former **Tunisian National Taekwondo Team** member
 - 🗣️ Arabic · French · English
 - 🎯 **Seeking:** a 6-month end-of-studies internship
-
-<br clear="right"/>
 
 ---
 
@@ -89,7 +85,7 @@ Learning and certification platform built as microservices with JWT security.
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 🧩 *Microservices*<br/>
-[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/REPO-NAME)
+[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/Esprit-PiProject-4SAE8-2026-CertifyPro)
 
 </td>
 <td width="33%" valign="top">
@@ -102,9 +98,36 @@ Jenkins pipeline: build, tests, Docker image and Kubernetes deployment.
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
 🔁 *Automation*<br/>
-[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/REPO-NAME)
+[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/StudentsManagement-DevOps)
 
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### ⚽ Federation Football
+Football federation management application built with .NET.
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+
+🧱 *.NET project*<br/>
+[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/FederationFootball)
+
+</td>
+<td width="33%" valign="top">
+
+### ✈️ Agence de Voyage
+Travel agency management application built with .NET.
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+
+🧱 *.NET project*<br/>
+[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/AgenceDevoyage)
+
+</td>
+<td width="33%"></td>
 </tr>
 </table>
 
@@ -129,7 +152,7 @@ Full-stack operations system: REST APIs, JWT auth, role-based access, CSV/XML im
 </td>
 <td width="33%" valign="top">
 
-### 📐 Numerical Analysis Platform
+### 📐 NumiViz: Numerical Analysis Platform
 **ESPRIT Tech** · Jul – Sep 2025<br/>
 Interactive learning platform that visualizes numerical methods with Manim animations.
 
@@ -138,7 +161,8 @@ Interactive learning platform that visualizes numerical methods with Manim anima
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/REPO-NAME)
+[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/numiviz)
+[![Live](https://img.shields.io/badge/Live_demo-F5576C?style=flat-square&logo=vercel&logoColor=white)](https://numiviz-fe4c.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
@@ -165,6 +189,19 @@ Power BI dashboards and ETL workflows built on logistics datasets.
 <tr>
 <td width="33%" valign="top">
 
+### 🧪 PromptForge
+Prompt testing and orchestration tool for developers: run the same prompt across several configurations and output formats (strict JSON, Markdown, YAML), then compare latency, estimated token cost and result quality before integrating a model into your code.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/LLM_APIs-8A2BE2?style=flat-square"/>
+
+🚧 *In progress*<br/>
+[![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/PromptForge)
+
+</td>
+<td width="33%" valign="top">
+
 ### 💬 ChaTTunisia
 Chatbot builder: businesses create FAQ bots for WhatsApp and Messenger.
 
@@ -172,14 +209,6 @@ Chatbot builder: businesses create FAQ bots for WhatsApp and Messenger.
 <img src="https://img.shields.io/badge/Messenger-0084FF?style=flat-square&logo=messenger&logoColor=white"/>
 
 [![Repo](https://img.shields.io/badge/View_repo-181717?style=flat-square&logo=github)](https://github.com/sirineee22/REPO-NAME)
-
-</td>
-<td width="33%" valign="top">
-
-### ✨ Next idea
-Add your next side project here.
-
-<img src="https://img.shields.io/badge/Stack-TBD-lightgrey?style=flat-square"/>
 
 </td>
 <td width="33%"></td>
