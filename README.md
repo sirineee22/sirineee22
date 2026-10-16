@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://sirine-dahmane.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-sirine--dahmane.vercel.app-F5576C?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dahmane-sirine-6a7a612a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/sirineee22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:dahmane.sirine@esprit.tn"><img src="https://img.shields.io/badge/Email-F5576C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -16,15 +17,6 @@
 </div>
 
 <br/>
-
-## 🌸 About me
-
-- 🎓 **5th-year Software Engineering** at [ESPRIT](https://www.esprit.tn/)
-- 📜 **License in Business Intelligence** at ESEN
-- 💻 Full-stack developer with a **DevOps** mindset and a **BI** background
-- 🥋 Former **Tunisian National Taekwondo Team** member
-- 🗣️ Arabic · French · English
-- 🎯 **Seeking:** a 6-month end-of-studies internship
 
 ---
 
